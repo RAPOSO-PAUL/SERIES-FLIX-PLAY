@@ -2,6 +2,14 @@
   "tmdb_id": 108978,
   "type": "tv",
   "episodes": [
+    { "season": 3, "episode": 1, "magnet": "magnet:?xt=urn:btih:5235ccd8dcd1107b2299bb674b495bac9f2ea7c6", "youtube": "htlUwNs2AjQ" },
+    { "season": 3, "episode": 2, "magnet": "magnet:?xt=urn:btih:5235ccd8dcd1107b2299bb674b495bac9f2ea7c6" },
+    { "season": 3, "episode": 3, "magnet": "magnet:?xt=urn:btih:5235ccd8dcd1107b2299bb674b495bac9f2ea7c6" },
+    { "season": 3, "episode": 4, "magnet": "magnet:?xt=urn:btih:ad01aac4d51466ef9c71a4461daa890ffe0fb4d6" },
+    { "season": 3, "episode": 5, "magnet": "magnet:?xt=urn:btih:689ae002896b8919dd2cf6f0113617dea7e3bbb8" },
+    { "season": 3, "episode": 6, "magnet": "magnet:?xt=urn:btih:747c7aa7430dd3f81762b2c3f855154a5a355aff" },
+    { "season": 3, "episode": 7, "magnet": "magnet:?xt=urn:btih:1113f7c7c0a394294e4773b1755656a1f2b38861" },
+    { "season": 3, "episode": 8, "magnet": "magnet:?xt=urn:btih:5c28677a0f0e0cd6bc5ff5e8c5d5b6dbc923431c" },
     { "season": 4, "episode": 1, "magnet": "magnet:?xt=urn:btih:e09c55cd337f60379bc790a314d364a56746e1c1", "youtube": "Pa92ctB8xtQ" }
   ]
 }
