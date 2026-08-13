@@ -2,6 +2,10 @@
   "tmdb_id": 94997,
   "type": "tv",
   "episodes": [
+    { "season": 1, "episode": 1, "sources": [
+        { "name": "DUAL ÁUDIO 720p", "magnet": "magnet:?xt=urn:btih:e09c55cd337f60379bc790a314d364a56746e1c1" },
+        { "name": "DUAL ÁUDIO 1080p", "magnet": "magnet:?xt=urn:btih:9a9488e52389eb437040bcadd3677f9eb80cae61" }
+      ], "youtube": "ZRiVkm7-ENU" },
     { "season": 2, "episode": 1, "magnet": "magnet:?xt=urn:btih:QWLX3NXVNJHWU66YF7B6WRGZPTNL6WJ7", "youtube": "97YXokOdZgU" },
     { "season": 2, "episode": 2, "magnet": "magnet:?xt=urn:btih:APWRSU6WRTQGZA2U4SPZLT6L47HZ3FIH" },
     { "season": 2, "episode": 3, "magnet": "magnet:?xt=urn:btih:7FVS4CNQVG4TNQ4PREPG423WPA2EYO7G" },
