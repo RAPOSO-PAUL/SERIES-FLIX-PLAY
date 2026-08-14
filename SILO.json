@@ -1,0 +1,13 @@
+{
+  "tmdb_id": 125988,
+  "type": "tv",
+  "episodes": [
+    { "season": 3, "episode": 1, "magnet": "magnet:?xt=urn:btih:lrbbpvqfq7dzkq5hcjvypwwyd6kcegf3", "youtube": "Qyybj2wxJnY" },
+    { "season": 3, "episode": 2, "magnet": "magnet:?xt=urn:btih:azr3y5jinspdfsienbnd3og3uw2zigdt" },
+    { "season": 3, "episode": 3, "magnet": "magnet:?xt=urn:btih:le36g4fmmpxdfp7awlngttpm3qv4xiqw" },
+    { "season": 3, "episode": 4, "magnet": "magnet:?xt=urn:btih:37uwxqk6jsuu4zy6k7afp5c47dgapr2r" },
+    { "season": 3, "episode": 5, "magnet": "magnet:?xt=urn:btih:ry5cub53sgmxdx2mvlfiquzcjnlphaon" },
+    { "season": 3, "episode": 6, "magnet": "magnet:?xt=urn:btih:xm5db4kgzr3cypal37i3ysktgq375nuu" },
+    { "season": 3, "episode": 7, "magnet": "magnet:?xt=urn:btih:363eu5g4nu6hs7knek5ueabwesblsnee" }
+  ]
+}
