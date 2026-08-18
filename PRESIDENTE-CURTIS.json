@@ -4,6 +4,7 @@
   "episodes": [
     { "season": 1, "episode": 1, "magnet": "magnet:?xt=urn:btih:b18e68f37da1d8065464d1059c27d5021968549b", "youtube": "OQGGr380bwM" },
     { "season": 1, "episode": 2, "magnet": "magnet:?xt=urn:btih:b18e68f37da1d8065464d1059c27d5021968549b" },
-    { "season": 1, "episode": 3, "magnet": "magnet:?xt=urn:btih:f5240463fd20e5be55b65d91ab20a9d38ec33fda" }
+    { "season": 1, "episode": 3, "magnet": "magnet:?xt=urn:btih:f5240463fd20e5be55b65d91ab20a9d38ec33fda" },
+    { "season": 1, "episode": 4, "magnet": "magnet:?xt=urn:btih:scoegvuzakwuhjnxnvmdnkahwv5laqrm" }
   ]
 }
