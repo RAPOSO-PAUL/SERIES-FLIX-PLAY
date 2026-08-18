@@ -1,0 +1,9 @@
+{
+  "tmdb_id": 113962,
+  "type": "tv",
+  "episodes": [
+    { "season": 3, "episode": 1, "magnet": "magnet:?xt=urn:btih:fsshyo4euxzo6vrndeqbgwamiv5aqkop", "youtube": "zipyEiqiQyk" },
+    { "season": 3, "episode": 2, "magnet": "magnet:?xt=urn:btih:32wkpsggtrwrcutbku2axk4nokjgzwqi" },
+    { "season": 3, "episode": 3, "magnet": "magnet:?xt=urn:btih:nraxfeoxjypsypdyaopcycqbhxol3nab" }
+  ]
+}
