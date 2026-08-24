@@ -2,6 +2,7 @@
   "tmdb_id": 95350,
   "type": "tv",
   "episodes": [
-    { "season": 1, "episode": 1, "magnet": "magnet:?xt=urn:btih:ohusgksfjakdipwf7lowyjwaqba532yp", "youtube": "br4P2zreR9I" }
+    { "season": 1, "episode": 1, "magnet": "magnet:?xt=urn:btih:ohusgksfjakdipwf7lowyjwaqba532yp", "youtube": "br4P2zreR9I" },
+    { "season": 1, "episode": 1, "magnet": "magnet:?xt=urn:btih:hu44wwlqjuvvw6kzntbx4abiot2r6qx4" }
   ]
 }
