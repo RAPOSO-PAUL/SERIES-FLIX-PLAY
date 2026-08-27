@@ -12,6 +12,7 @@
     { "season": 1, "episode": 8, "magnet": "magnet:?xt=urn:btih:841073b4a979ea23b0db9e67b67b4cf0f782a3a5" },
     { "season": 1, "episode": 9, "magnet": "magnet:?xt=urn:btih:a41b397cc31b6194ad3589a2a431804bac47dd69" },
     { "season": 2, "episode": 1, "magnet": "magnet:?xt=urn:btih:geazm2smc65cadj77td2yx2exqnan234", "youtube": "aSK972wI5Og" },
-    { "season": 2, "episode": 2, "magnet": "magnet:?xt=urn:btih:sjw4ihd3hshadntyjn7xfwvdysruec5k" }
+    { "season": 2, "episode": 2, "magnet": "magnet:?xt=urn:btih:sjw4ihd3hshadntyjn7xfwvdysruec5k" },
+    { "season": 2, "episode": 3, "magnet": "magnet:?xt=urn:btih:bvob44dmhk5fhedqgo2hm6j37ot2dgfd" }
   ]
 }
