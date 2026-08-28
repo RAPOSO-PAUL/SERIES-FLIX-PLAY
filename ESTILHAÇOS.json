@@ -2,6 +2,12 @@
   "tmdb_id": 298168,
   "type": "tv",
   "episodes": [
-    { "season": 1, "episode": 1, "magnet": "magnet:?xt=urn:btih:671656908c63c6c592738f356a5ad49aa63148b3", "youtube": "N6p4mb46AKA" }
+    { "season": 1, "episode": 1, "magnet": "magnet:?xt=urn:btih:671656908c63c6c592738f356a5ad49aa63148b3", "youtube": "N6p4mb46AKA" },
+    { "season": 1, "episode": 2, "magnet": "magnet:?xt=urn:btih:671656908c63c6c592738f356a5ad49aa63148b3" },
+    { "season": 1, "episode": 3, "magnet": "magnet:?xt=urn:btih:671656908c63c6c592738f356a5ad49aa63148b3" },
+    { "season": 1, "episode": 4, "magnet": "magnet:?xt=urn:btih:671656908c63c6c592738f356a5ad49aa63148b3" },
+    { "season": 1, "episode": 5, "magnet": "magnet:?xt=urn:btih:671656908c63c6c592738f356a5ad49aa63148b3" },
+    { "season": 1, "episode": 6, "magnet": "magnet:?xt=urn:btih:p4irfkwzteskejghlylnvkig5pdwgbnj" },
+    { "season": 1, "episode": 7, "magnet": "magnet:?xt=urn:btih:p4irfkwzteskejghlylnvkig5pdwgbnj" }
   ]
 }
