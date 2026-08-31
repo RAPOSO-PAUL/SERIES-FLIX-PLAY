@@ -3,6 +3,7 @@
   "type": "tv",
   "episodes": [
     { "season": 1, "episode": 1, "magnet": "magnet:?xt=urn:btih:ohusgksfjakdipwf7lowyjwaqba532yp", "youtube": "br4P2zreR9I" },
-    { "season": 1, "episode": 2, "magnet": "magnet:?xt=urn:btih:hu44wwlqjuvvw6kzntbx4abiot2r6qx4" }
+    { "season": 1, "episode": 2, "magnet": "magnet:?xt=urn:btih:hu44wwlqjuvvw6kzntbx4abiot2r6qx4" },
+    { "season": 1, "episode": 3, "magnet": "magnet:?xt=urn:btih:whyjplx4yq3zsi5t6p76om6s4pnwhlhw" }
   ]
 }
