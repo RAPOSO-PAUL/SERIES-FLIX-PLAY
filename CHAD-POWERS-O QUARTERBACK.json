@@ -2,6 +2,12 @@
   "tmdb_id": 247168,
   "type": "tv",
   "episodes": [
+    { "season": 1, "episode": 1, "magnet": "magnet:?xt=urn:btih:2f3599fcd59aecec9901810dc823cb51368137a2", "youtube": "GXszSFVR1HQ" },
+    { "season": 1, "episode": 2, "magnet": "magnet:?xt=urn:btih:2f3599fcd59aecec9901810dc823cb51368137a2" },
+    { "season": 1, "episode": 3, "magnet": "magnet:?xt=urn:btih:feac662d51b44ebda02d4659a8d08c56ea4566bd" },
+    { "season": 1, "episode": 4, "magnet": "magnet:?xt=urn:btih:ecdfb981f41407b72c3f7e27b85939c06e45e938" },
+    { "season": 1, "episode": 5, "magnet": "magnet:?xt=urn:btih:9b1dac764a6eca96f1ef30125207eff829531d6e" },
+    { "season": 1, "episode": 6, "magnet": "magnet:?xt=urn:btih:09d2899ee8754610b4c125a268882b62f71ae2ae" },
     { "season": 2, "episode": 1, "magnet": "magnet:?xt=urn:btih:81a3dcb864877a1c6307f15bc781295b2b3bacde", "youtube": "UOc5DJt2EzI" },
     { "season": 2, "episode": 2, "magnet": "magnet:?xt=urn:btih:81a3dcb864877a1c6307f15bc781295b2b3bacde4" },
     { "season": 2, "episode": 3, "magnet": "magnet:?xt=urn:btih:81a3dcb864877a1c6307f15bc781295b2b3bacde" },
