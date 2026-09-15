@@ -1,0 +1,10 @@
+{
+  "tmdb_id": 270572,
+  "type": "tv",
+  "episodes": [
+    { "season": 1, "episode": 1, "magnet": "magnet:?xt=urn:btih:d6f3298634b0a2d7a7ab14a91f233c80cab619c6", "youtube": "03EvwDhV58A" },
+    { "season": 1, "episode": 2, "magnet": "magnet:?xt=urn:btih:d6f3298634b0a2d7a7ab14a91f233c80cab619c6" },
+    { "season": 1, "episode": 3, "magnet": "magnet:?xt=urn:btih:d6f3298634b0a2d7a7ab14a91f233c80cab619c6" },
+    { "season": 1, "episode": 4, "magnet": "magnet:?xt=urn:btih:d6f3298634b0a2d7a7ab14a91f233c80cab619c6" }
+  ]
+}
