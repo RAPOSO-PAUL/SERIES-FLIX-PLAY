@@ -1,0 +1,44 @@
+# =====================================================================
+# GITLAB = RESERVA das series (SERIES-FLIX-PLAY)
+#
+# Este arquivo mora no GITHUB e chega aqui pelo espelho (o GitHub ignora
+# ele). Nunca edite nada direto no GitLab.
+#
+# pages -> publica os .json das series no GitLab Pages e troca os links
+#          de dentro deles (GitHub -> GitLab). Roda sozinho quando alguma
+#          serie muda (~1 minuto por publicacao).
+# =====================================================================
+
+variables:
+  GITHUB_PRINCIPAL: "https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO"
+  GITHUB_SERIES: "https://raw.githubusercontent.com/RAPOSO-PAUL/SERIES-FLIX-PLAY"
+
+pages:
+  image: alpine:3.20
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "push" && $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
+      changes:
+        - "*.json"
+        - "**/*.json"
+        - .gitlab-ci.yml
+    - if: '$CI_PIPELINE_SOURCE == "web"'
+  script:
+    - mkdir -p public
+    # todos os .json (mantendo as pastas, se houver), fora a pasta public
+    - find . -path ./public -prune -o -path ./.git -prune -o -type f -name '*.json' -print | while read -r f; do mkdir -p "public/$(dirname "$f")"; cp "$f" "public/$f"; done
+    - BASE="$CI_PAGES_URL"
+    - PRINCIPAL="${PRINCIPAL_PAGES_URL:-${CI_PAGES_URL%/*}/TeamViannaREPO}"
+    - echo "Pages deste projeto   -> $BASE"
+    - echo "Pages do principal    -> $PRINCIPAL"
+    - >
+      find public -type f -name '*.json' -exec sed -i
+      -e "s#${GITHUB_SERIES}/refs/heads/main#${BASE}#g"
+      -e "s#${GITHUB_SERIES}/main#${BASE}#g"
+      -e "s#${GITHUB_PRINCIPAL}/refs/heads/main#${PRINCIPAL}#g"
+      -e "s#${GITHUB_PRINCIPAL}/main#${PRINCIPAL}#g"
+      {} +
+    - find public -type f -name '*.json' -exec gzip -k -9 -f {} \;
+    - du -sh public
+  artifacts:
+    paths:
+      - public
