@@ -1,0 +1,12 @@
+{
+  "tmdb_id": 219760,
+  "episodes": [
+    { "season": 1, "episode": 1, "magnet": "magnet:?xt=urn:btih:4d16a105cda5c4cb9773dea8e421e2ca90d6dfab&dn=A.Lista.Terminal.Lobo.Negro.S01E01-02-03.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", "youtube": "pelvo5TBD-M" },
+    { "season": 1, "episode": 2, "magnet": "magnet:?xt=urn:btih:4d16a105cda5c4cb9773dea8e421e2ca90d6dfab&dn=A.Lista.Terminal.Lobo.Negro.S01E01-02-03.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce" },
+    { "season": 1, "episode": 3, "magnet": "magnet:?xt=urn:btih:4d16a105cda5c4cb9773dea8e421e2ca90d6dfab&dn=A.Lista.Terminal.Lobo.Negro.S01E01-02-03.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce" },
+    { "season": 1, "episode": 4, "magnet": "magnet:?xt=urn:btih:13eba8d6a829c9c7389212800d45313d95e6a991&dn=A.Lista.Terminal.Lobo.Negro.S01E04.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce" },
+    { "season": 1, "episode": 5, "magnet": "magnet:?xt=urn:btih:796c51fd3ac89f79fc132132ef0ac142b713f42f&dn=A.Lista.Terminal.Lobo.Negro.S01E05.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce" },
+    { "season": 1, "episode": 6, "magnet": "magnet:?xt=urn:btih:12b86e526c7b45b75cd0d55f10aea09fae834b82&dn=A.Lista.Terminal.Lobo.Negro.S01E06.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce" },
+    { "season": 1, "episode": 7, "magnet": "magnet:?xt=urn:btih:f6601add93e4c675a4fe8974c645e983e4be0dbf&dn=A.Lista.Terminal.Lobo.Negro.S01E07.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce" }
+  ]
+}

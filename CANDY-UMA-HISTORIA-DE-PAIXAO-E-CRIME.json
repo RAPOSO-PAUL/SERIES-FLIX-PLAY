@@ -1,0 +1,10 @@
+{
+  "tmdb_id": 105804,
+  "episodes": [
+    { "season": 1, "episode": 1, "magnet": "magnet:?xt=urn:btih:50f02a84c2036fc8a55ec21c2ce289bdec8444b2&dn=Candy.S01e01-02.720p.WEB-DL.DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce", "youtube": "LTbM06Ds42s" },
+    { "season": 1, "episode": 2, "magnet": "magnet:?xt=urn:btih:50f02a84c2036fc8a55ec21c2ce289bdec8444b2&dn=Candy.S01e01-02.720p.WEB-DL.DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce" },
+    { "season": 1, "episode": 3, "magnet": "magnet:?xt=urn:btih:908fe4c703fc632edd2fa475f3d09b7fa3164d47&dn=Candy.S01e03-04-05.720p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce" },
+    { "season": 1, "episode": 4, "magnet": "magnet:?xt=urn:btih:908fe4c703fc632edd2fa475f3d09b7fa3164d47&dn=Candy.S01e03-04-05.720p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce" },
+    { "season": 1, "episode": 5, "magnet": "magnet:?xt=urn:btih:908fe4c703fc632edd2fa475f3d09b7fa3164d47&dn=Candy.S01e03-04-05.720p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce" }
+  ]
+}

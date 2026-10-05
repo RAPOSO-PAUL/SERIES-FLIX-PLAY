@@ -1,0 +1,15 @@
+{
+  "tmdb_id": 76482,
+  "episodes": [
+    { "season": 1, "episode": 1, "magnet": "magnet:?xt=urn:btih:32552d8a60e741d7b4beb8e6da66bf51a72920f8&dn=Heimebane.S01E01.NORWEGiAN.720p.HDTV.x264-TvNORGE.mkv" },
+    { "season": 1, "episode": 2, "magnet": "magnet:?xt=urn:btih:78af60fe012efc05e51b0e04fe91b069deb510e7&dn=Heimebane.S01E02.NORWEGiAN.720p.HDTV.x264-TvNORGE" },
+    { "season": 1, "episode": 3, "magnet": "magnet:?xt=urn:btih:1bb0ddd01350d0cf55203659a7955c793c064dba&dn=Heimebane.S01E03.NORWEGiAN.720p.WEBRip.x264-CURRYKETCHUP" },
+    { "season": 1, "episode": 4, "magnet": "magnet:?xt=urn:btih:c4b3e65191d9795fbdb5451c5f5d465f0c59d39d&dn=Heimebane.S01E04.NORWEGiAN.720p.WEB-DL.h264-PirateTV.mkv" },
+    { "season": 1, "episode": 5, "magnet": "magnet:?xt=urn:btih:f977012584d1b65d92f0597b742af2a0926e094c&dn=Heimebane.S01E05.NORWEGiAN.720p.HDTV.x264-TvNORGE.mkv" },
+    { "season": 1, "episode": 6, "magnet": "magnet:?xt=urn:btih:8a54c0ce4539945ceabd410e5b5c69c54b85bbdb&dn=Heimebane.S01E06.NORWEGiAN.720p.WEBRip.x264-CURRYKETCHUP.mkv" },
+    { "season": 1, "episode": 7, "magnet": "magnet:?xt=urn:btih:b2db580953e956ed08fae86273fc968793fc7bca&dn=Heimebane.S01E07.NORWEGiAN.720p.WEBRip.x264-CURRYKETCHUP.mkv" },
+    { "season": 1, "episode": 8, "magnet": "magnet:?xt=urn:btih:338cf86aec8c40b4c7b754b53c877cc47bdba8ed&dn=Heimebane.S01E08.NORWEGIAN.720p.HDTV.x264-TvNORGE.mkv" },
+    { "season": 1, "episode": 9, "magnet": "magnet:?xt=urn:btih:c58c6ad5ed9c94de26de406e1c3e8f4b807976b5&dn=Heimebane.S01E09.NORWEGiAN.720p.WEB-DL.x264-PirateTV.mkv" },
+    { "season": 1, "episode": 10, "magnet": "magnet:?xt=urn:btih:ba852dff10eaed0a468a1b9e1f4365ddedc4754b&dn=Heimebane.S01E10.NORWEGiAN.720p.HDTV.x264-DoKtor" }
+  ]
+}

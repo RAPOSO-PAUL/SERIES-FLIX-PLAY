@@ -1,0 +1,7 @@
+{
+  "tmdb_id": 79787,
+  "episodes": [
+    { "season": 1, "episode": 1, "magnet": "magnet:?xt=urn:btih:E99D7F4481C61D57847EDA13AD89ED479D0F7C50&dn=Coop.e.Cami.S01E01.1080p.WEB.H264.DUAL-NICK&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce", "youtube": "8MIjKGJG9vY" },
+    { "season": 1, "episode": 2, "magnet": "magnet:?xt=urn:btih:8CE1A918C7417F28B6911D09C9814B06B7B0E6B1&dn=Coop.e.Cami.S01E02.1080p.WEB.H264.DUAL-NICK&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce" }
+  ]
+}

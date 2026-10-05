@@ -1,0 +1,10 @@
+{
+  "tmdb_id": 128798,
+  "episodes": [
+    { "season": 1, "episode": 1, "magnet": "magnet:?xt=urn:btih:21140f873eb49cc277f7e41c4708684280c90d29&xt=urn:btmh:1220cff8e11c14381c225f0ed5ec7f8ef241d8ac3d2fad4f59fdb500bdc403ec1552&dn=Infiniti.S01E01.720p.WEB-DL.DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce", "youtube": "cKPmCBukaPg" },
+    { "season": 1, "episode": 2, "magnet": "magnet:?xt=urn:btih:96047146b531cb46e89cfee0e073140c7ee15ded&dn=Infiniti.S01E02.720p.WEB-DL.DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce" },
+    { "season": 1, "episode": 3, "magnet": "magnet:?xt=urn:btih:89b6712361ad9c835ee112c5f1786b4333fa316d&dn=Infiniti.S01E03-04-05.720p.WEB-DL.DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce" },
+    { "season": 1, "episode": 4, "magnet": "magnet:?xt=urn:btih:89b6712361ad9c835ee112c5f1786b4333fa316d&dn=Infiniti.S01E03-04-05.720p.WEB-DL.DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce" },
+    { "season": 1, "episode": 5, "magnet": "magnet:?xt=urn:btih:89b6712361ad9c835ee112c5f1786b4333fa316d&dn=Infiniti.S01E03-04-05.720p.WEB-DL.DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce" }
+  ]
+}

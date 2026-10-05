@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 99650,
+  "episodes": [
+    { "season": 1, "episode": 1, "magnet": "magnet:?xt=urn:btih:7EA042BA26E20CA521E56B4FB22FC3E5BD238AF2&dn=z%C3%A9+do+caix%C3%A3o+s01e01+720p+hdtv+x264+truehd+mkv&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337" },
+    { "season": 1, "episode": 2, "magnet": "magnet:?xt=urn:btih:A6E98E8A1C0ABBA3EA8D8C690C0CED2225F2CF21" },
+    { "season": 1, "episode": 3, "magnet": "magnet:?xt=urn:btih:DCB59BB0A91A38663EDC699EB3271C14D91C1FE6" },
+    { "season": 1, "episode": 4, "magnet": "magnet:?xt=urn:btih:D56E4655CEC3981019C86C78DCEDD4DA1A190770" },
+    { "season": 1, "episode": 5, "magnet": "magnet:?xt=urn:btih:970C063D2E63F9E29292B441CA056BC58A957000" },
+    { "season": 1, "episode": 6, "magnet": "magnet:?xt=urn:btih:5FF9317CD2A154B2E72F2C4C49078E2F76E34D08" }
+  ]
+}

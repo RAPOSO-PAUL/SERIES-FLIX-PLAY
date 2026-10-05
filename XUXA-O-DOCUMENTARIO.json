@@ -1,0 +1,10 @@
+{
+  "tmdb_id": 223318,
+  "episodes": [
+    { "season": 1, "episode": 1, "magnet": "magnet:?xt=urn:btih:0488775cd6372a1f26185f4fd6f06ab572891d57&dn=Xuxa%20O%20Documentario%20S01E01%201080p%20WEB-DL%20NACIONAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce" },
+    { "season": 1, "episode": 2, "magnet": "magnet:?xt=urn:btih:e46075864e6e7b0270450d7836aefc9bd78ee866&dn=Xuxa%20O%20Documentario%20S01E02%201080p%20WEB-DL%20NACIONAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce" },
+    { "season": 1, "episode": 3, "magnet": "magnet:?xt=urn:btih:09347c67899f32cffde34cfeaf2d998469db0c21&dn=Xuxa.O.Documentario.S01E03.1080p.WEB-DL.NACIONAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce" },
+    { "season": 1, "episode": 4, "magnet": "magnet:?xt=urn:btih:ZL55CVZ4SRKC7VXW6JHUF7G6HZ52GEIZ&dn=Xuxa%20O%20Documentario%20S01E04%20WEB-DL%201080p%20x264%20NACIONAL%202.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce" },
+    { "season": 1, "episode": 5, "magnet": "magnet:?xt=urn:btih:f32041a00dfffd4052caaabdba4b2b9e7cdf694a&dn=Xuxa.O.Documentario.S01E05.1080p.WEB-DL.NACIONAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce" }
+  ]
+}

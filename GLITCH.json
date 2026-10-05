@@ -1,0 +1,11 @@
+{
+  "tmdb_id": 63201,
+  "episodes": [
+    { "season": 3, "episode": 1, "sources": [{"name": "1080p", "magnet": "magnet:?xt=urn:btih:d01ab0328780d776c1107fe9a000e07a4908e454&dn=Glitch.S03E01.HDTV.x264-CCT%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2720&tr=udp%3A%2F%2F9.rarbg.to%3A2750"}, {"name": "1080p 2", "magnet": "magnet:?xt=urn:btih:68f2f315240c200fbd72455f9c177f5215c76aec&dn=Glitch.S03E01.720p.HDTV.x264-CBFM%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2770&tr=udp%3A%2F%2F9.rarbg.to%3A2720"}, {"name": "1080p 3", "magnet": "magnet:?xt=urn:btih:27d702451ae7f71ca3986a452e6534d012c5e4a0&dn=Glitch.S03E01.1080p.HDTV.H264-CBFM%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780&tr=udp%3A%2F%2F9.rarbg.to%3A2720"}], "youtube": "pYub7xwhWYg" },
+    { "season": 3, "episode": 2, "magnet": "magnet:?xt=urn:btih:f4635385d9d7fd316cd58bf909276b2672e5487f&dn=Glitch.S03E02.WEB.x264-CBFM%5brarbg%5d&tr=http%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2730%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2740%2fannounce" },
+    { "season": 3, "episode": 3, "magnet": "magnet:?xt=urn:btih:c4c4d640966530dc4ed34baa1fe2356ba134bd23&dn=Glitch.S03E03.WEB.x264-CBFM%5brarbg%5d&tr=http%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2720%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce" },
+    { "season": 3, "episode": 4, "magnet": "magnet:?xt=urn:btih:518213cfa244582d16f943aa53e263727cb222c4&dn=Glitch.S03E04.WEB.x264-CBFM%5brarbg%5d&tr=http%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2720%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce" },
+    { "season": 3, "episode": 5, "magnet": "magnet:?xt=urn:btih:8fa018114a4dbabbab7850c23a788bfebbc7e551&dn=Glitch.S03E05.WEB.x264-CBFM%5brarbg%5d&tr=http%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2740%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce" },
+    { "season": 3, "episode": 6, "magnet": "magnet:?xt=urn:btih:a80591785f989a98202e80dbcf2a682f1bc73d29&dn=Glitch.S03E06.WEB.x264-CBFM%5brarbg%5d&tr=http%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2750%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce" }
+  ]
+}

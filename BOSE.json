@@ -1,0 +1,8 @@
+{
+  "tmdb_id": 212464,
+  "episodes": [
+    { "season": 1, "episode": 1, "magnet": "magnet:?xt=urn:btih:EF04F638D2A6336F21886A25DFCD6EF1FE803185&dn=Bose.S01E01.LINDA.1080p.AMZN.WEB-DL.DDP2.0.H.264&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fwww.torrent.eu.org%3a451%2fannounce", "youtube": "sF3toZfcn_Q" },
+    { "season": 1, "episode": 2, "magnet": "magnet:?xt=urn:btih:V3SUAJSUWFTVGVDHO76BXKXQHAMRRFDO&dn=Bose.S01E02.TE.AMARE.1080p.AMZN.WEB-DL.DDP2.0.H.264&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce" },
+    { "season": 1, "episode": 3, "magnet": "magnet:?xt=urn:btih:K5TK677C6I4F7FYA65E3U4OMRRMDXCHT&dn=Bose.S01E03.BRAVI.RAGAZZI.1080p.AMZN.WEB-DL.DDP2.0.H.264&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce" }
+  ]
+}
