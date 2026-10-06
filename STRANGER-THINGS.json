@@ -1,6 +1,13 @@
 {
   "tmdb_id":66732,
   "episodes":[
-    {"season":5,"episode":8,"magnet":"magnet:?xt=urn:btih:85523706ca5eb7f9d9e28f201ed27f1a1e679cfc&dn=HIDRATORRENTS.ORG..MKV.Stranger.Things.S05E08.EPIS%C3%93DIO.FINAL.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce","youtube":"i4F5zYSaKPs"}
+    {"season":5,"episode":1,"magnet":"magnet:?xt=urn:btih:29bb89a4c48cf857107d8388a0dfb8c3fae6c53d&dn=HIDRATORRENTS.ORG..MKV.Stranger.Things.S05.VOLUME.01.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce","youtube":"i4F5zYSaKPs"},
+	{"season":5,"episode":2,"magnet":"magnet:?xt=urn:btih:29bb89a4c48cf857107d8388a0dfb8c3fae6c53d&dn=HIDRATORRENTS.ORG..MKV.Stranger.Things.S05.VOLUME.01.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"},
+	{"season":5,"episode":3,"magnet":"magnet:?xt=urn:btih:29bb89a4c48cf857107d8388a0dfb8c3fae6c53d&dn=HIDRATORRENTS.ORG..MKV.Stranger.Things.S05.VOLUME.01.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"},
+	{"season":5,"episode":4,"magnet":"magnet:?xt=urn:btih:29bb89a4c48cf857107d8388a0dfb8c3fae6c53d&dn=HIDRATORRENTS.ORG..MKV.Stranger.Things.S05.VOLUME.01.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"},
+	{"season":5,"episode":5,"magnet":"magnet:?xt=urn:btih:9404af26a44c22a35035804900d08adb9ed21dc1&dn=HIDRATORRENTS.ORG..MKV.Stranger.Things.S05.VOLUME.02.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"},
+	{"season":5,"episode":6,"magnet":"magnet:?xt=urn:btih:9404af26a44c22a35035804900d08adb9ed21dc1&dn=HIDRATORRENTS.ORG..MKV.Stranger.Things.S05.VOLUME.02.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"},
+	{"season":5,"episode":7,"magnet":"magnet:?xt=urn:btih:9404af26a44c22a35035804900d08adb9ed21dc1&dn=HIDRATORRENTS.ORG..MKV.Stranger.Things.S05.VOLUME.02.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"},
+	{"season":5,"episode":8,"magnet":"magnet:?xt=urn:btih:85523706ca5eb7f9d9e28f201ed27f1a1e679cfc&dn=HIDRATORRENTS.ORG..MKV.Stranger.Things.S05E08.EPIS%C3%93DIO.FINAL.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"},
   ]
 }
