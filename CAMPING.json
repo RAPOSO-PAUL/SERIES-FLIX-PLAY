@@ -1,6 +1,155 @@
 {
-  "tmdb_id": 66183,
+  "tmdb_id": 78101,
+  "title": "Camping",
   "episodes": [
-    { "season": 1, "episode": 1, "magnet": "magnet:?xt=urn:btih:db14d7b12fa4945a7f8837d07ab5cb9422a78b70&dn=", "youtube": "m9ykR5_RZbo" }
+    {
+      "season": 1,
+      "episode": 1,
+      "sources": [
+        {
+          "name": "1080p",
+          "magnet": "magnet:?xt=urn:btih:2ecb4d7a23d56f8452947d304c9e275a490f0759&dn=Camping.US.S01E01.WEBRip.x264-ION10&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"
+        },
+        {
+          "name": "1080p 2",
+          "magnet": "magnet:?xt=urn:btih:815f5b9269a48e0c3ba8fe8b97782ea1d23f73e0&dn=Camping.US.S01E01.Pilot.720p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"
+        },
+        {
+          "name": "1080p 3",
+          "magnet": "magnet:?xt=urn:btih:7f957a528da6764ebf99f60b7b1ec9cf1401e4ac&dn=Camping.US.S01E01.Pilot.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"
+        }
+      ],
+      "youtube": "kkwrM9s2NqY"
+    },
+    {
+      "season": 1,
+      "episode": 2,
+      "sources": [
+        {
+          "name": "1080p",
+          "magnet": "magnet:?xt=urn:btih:08ba352834929e754c8eb46738da31b6fd508426&dn=Camping.US.S01E02.WEBRip.x264-ION10&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"
+        },
+        {
+          "name": "1080p 2",
+          "magnet": "magnet:?xt=urn:btih:aa27d1acdfe56c1fd87fc2954600f553eb5da1d8&dn=Camping.US.S01E02.Going.To.Town.720p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"
+        }
+      ]
+    },
+    {
+      "season": 1,
+      "episode": 3,
+      "sources": [
+        {
+          "name": "1080p",
+          "magnet": "magnet:?xt=urn:btih:3e9b04b8d08c83d463a522346b044d2e595e1814&dn=Camping.US.S01E03.WEBRip.x264-ION10&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"
+        },
+        {
+          "name": "1080p 2",
+          "magnet": "magnet:?xt=urn:btih:a860a5b92519d1c6ec7f4c715dd0b57104045251&dn=Camping.US.S01E03.Fishing.Trip.720p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"
+        },
+        {
+          "name": "1080p 3",
+          "magnet": "magnet:?xt=urn:btih:0a99dc95c1e9acd77e4df2a4419d058efdfdf587&dn=Camping.US.S01E03.Fishing.Trip.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"
+        },
+        {
+          "name": "1080p Dual Áudio",
+          "magnet": "magnet:?xt=urn:btih:1a5f4902553256bd5152c89ab5fd99dc45440079&dn=Camping.Us.S01E03.1080p.WEB-DL.DUAL.comando1.com&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce"
+        }
+      ]
+    },
+    {
+      "season": 1,
+      "episode": 4,
+      "sources": [
+        {
+          "name": "1080p",
+          "magnet": "magnet:?xt=urn:btih:e32266864e9cbc2e5261034ebd6f6cbc004d9d99&dn=Camping.US.S01E04.WEBRip.x264-ION10&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"
+        },
+        {
+          "name": "1080p 2",
+          "magnet": "magnet:?xt=urn:btih:bbb49e622ca89b00f1baba4dc0ddf08b50b0d1a9&dn=Camping.US.S01E04.720p.WEB.H264-METCON%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"
+        },
+        {
+          "name": "1080p 3",
+          "magnet": "magnet:?xt=urn:btih:75fa74286aa57c20b1ee8498b357640088ad778d&dn=Camping.US.S01E04.1080p.WEB.H264-METCON%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"
+        },
+        {
+          "name": "1080p Dual Áudio",
+          "magnet": "magnet:?xt=urn:btih:55113ba6a7415b9edcefa98fa3bf5270d77001e3&dn=Camping.Us.S01E04.1080p.WEB-DL.DUAL.comando1.com&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce"
+        }
+      ]
+    },
+    {
+      "season": 1,
+      "episode": 5,
+      "sources": [
+        {
+          "name": "1080p",
+          "magnet": "magnet:?xt=urn:btih:282dccd014490cc92f170b15fdf2f5a0b513d159&dn=Camping.US.S01E05.WEB.H264-MEMENTO%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"
+        },
+        {
+          "name": "1080p 2",
+          "magnet": "magnet:?xt=urn:btih:0af42608799162b050f27c4f96d09ddd300ac4b1&dn=Camping.US.S01E05.720p.WEB.H264-METCON%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"
+        },
+        {
+          "name": "1080p 3",
+          "magnet": "magnet:?xt=urn:btih:4f165f5457bbc9b388f53d374e1d8de4e25b04da&dn=Camping.US.S01E05.1080p.WEB.H264-METCON%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"
+        }
+      ]
+    },
+    {
+      "season": 1,
+      "episode": 6,
+      "sources": [
+        {
+          "name": "1080p",
+          "magnet": "magnet:?xt=urn:btih:d6ee27c356fe3c6d2b0c20981c5500fc617de187&dn=Camping.US.S01E06.WEB.h264-CONVOY%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"
+        },
+        {
+          "name": "1080p 2",
+          "magnet": "magnet:?xt=urn:btih:909870783ed00c78b7ccb8e664eadad7fee62b4e&dn=Camping.US.S01E06.720p.WEB.h264-CONVOY%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"
+        },
+        {
+          "name": "1080p 3",
+          "magnet": "magnet:?xt=urn:btih:755ee6de73cfe90af7b9df55dd736c925ec528f0&dn=Camping.US.S01E06.1080p.WEB.h264-CONVOY%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"
+        }
+      ]
+    },
+    {
+      "season": 1,
+      "episode": 7,
+      "sources": [
+        {
+          "name": "1080p",
+          "magnet": "magnet:?xt=urn:btih:1257ac64be32abade0658351c56cae689ece81e9&dn=Camping.US.S01E07.WEB.H264-MEMENTO%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"
+        },
+        {
+          "name": "1080p 2",
+          "magnet": "magnet:?xt=urn:btih:1016e19989eedc2b5bcb92c05bb09b49037e462c&dn=Camping.US.S01E07.720p.WEB.H264-MEMENTO%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"
+        },
+        {
+          "name": "1080p 3",
+          "magnet": "magnet:?xt=urn:btih:5afc377de428e7194e3a415e6dbf5341c473c71b&dn=Camping.US.S01E07.1080p.WEB.H264-MEMENTO%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"
+        }
+      ]
+    },
+    {
+      "season": 1,
+      "episode": 8,
+      "sources": [
+        {
+          "name": "1080p",
+          "magnet": "magnet:?xt=urn:btih:6a78647f9c35b7bdde62234f979ed4527e8a532b&dn=Camping.US.S01E08.WEB.H264-MEMENTO%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"
+        },
+        {
+          "name": "1080p 2",
+          "magnet": "magnet:?xt=urn:btih:bd05a63fc117cb50c410e78d6da048cbe9f2496e&dn=Camping.US.S01E08.720p.WEB.H264-MEMENTO%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"
+        },
+        {
+          "name": "1080p 3",
+          "magnet": "magnet:?xt=urn:btih:b11681e7da7dff0d12c1fd14f4f0c22344684a6c&dn=Camping.US.S01E08.1080p.WEB.H264-MEMENTO%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"
+        }
+      ]
+    }
   ]
 }

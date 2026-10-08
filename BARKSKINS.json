@@ -1,0 +1,39 @@
+{
+  "tmdb_id": 93737,
+  "title": "Barkskins",
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "sources": [
+        {
+          "name": "1080p",
+          "magnet": "magnet:?xt=urn:btih:fc9a4e2cae4ae44eb048d4c078cd77bb943484be&dn=Barkskins.S01E01.WEBRip.x264-ION10&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2950&tr=udp%3A%2F%2F9.rarbg.to%3A2830"
+        },
+        {
+          "name": "1080p 2",
+          "magnet": "magnet:?xt=urn:btih:bf088d76a37244fe5c3ff4eae63f1080662e7bc0&dn=Barkskins.S01E01.1080p.WEB.H264-METCON%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2880&tr=udp%3A%2F%2F9.rarbg.to%3A2740"
+        }
+      ],
+      "youtube": "Q7S1vHEf3Gg"
+    },
+    {
+      "season": 1,
+      "episode": 2,
+      "sources": [
+        {
+          "name": "1080p",
+          "magnet": "magnet:?xt=urn:btih:2f36621ad62f3953f61a48e72cd731ce2dc303b1&dn=Barkskins.S01E02.The.Turtle.King.720p.WEBRip.x264-CAFFEiNE%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2870&tr=udp%3A%2F%2F9.rarbg.to%3A2860"
+        },
+        {
+          "name": "1080p 2",
+          "magnet": "magnet:?xt=urn:btih:3dd73862f8767fa6ee16ef90a20df130a0757e5a&dn=Barkskins.S01E02.WEBRip.x264-ION10&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2820&tr=udp%3A%2F%2F9.rarbg.to%3A2900"
+        },
+        {
+          "name": "1080p 3",
+          "magnet": "magnet:?xt=urn:btih:86c76b5c268955c4c592e6c205893813f0483a69&dn=Barkskins.S01E02.1080p.WEB.H264-METCON%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2770&tr=udp%3A%2F%2F9.rarbg.to%3A2800"
+        }
+      ]
+    }
+  ]
+}

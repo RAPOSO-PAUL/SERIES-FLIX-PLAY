@@ -1,15 +1,146 @@
 {
-  "tmdb_id": 70496,
+  "tmdb_id": 115200,
+  "title": "Riviera",
   "episodes": [
-    { "season": 1, "episode": 1, "sources": [{"name": "720p", "magnet": "magnet:?xt=urn:btih:4be0aebc40e07ddcabdd6b83abe0e4acb42fe7f6&dn=Riviera.S01E01.HDTV.x264-SQUEAK%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"}, {"name": "720p 2", "magnet": "magnet:?xt=urn:btih:3dcd72d622015a6a88cd79c2442df60097f31c3d&dn=Riviera.S01E01.720p.HDTV.x264-SQUEAK%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"}], "youtube": "pzkv-h3Ee8o" },
-    { "season": 1, "episode": 2, "sources": [{"name": "720p", "magnet": "magnet:?xt=urn:btih:60cc5b09256316c2d6d68b577122f6f91e013772&dn=Riviera.S01E02.INTERNAL.HDTV.x264-SQUEAK%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"}, {"name": "720p 2", "magnet": "magnet:?xt=urn:btih:09c8d64f638a61b7fa49f93e346bfb526a5601cf&dn=Riviera.S01E02.INTERNAL.720p.HDTV.x264-SQUEAK%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"}] },
-    { "season": 1, "episode": 3, "sources": [{"name": "720p", "magnet": "magnet:?xt=urn:btih:531ed1e426f4c03bb2d2d3e097a8b7e854b98e73&dn=Riviera.S01E03.HDTV.x264-FGT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"}, {"name": "720p 2", "magnet": "magnet:?xt=urn:btih:54e2cac3ef0a3d8e1c6a26af275cb224e30703bd&dn=Riviera.S01E03.720p.HDTV.x264-RIV%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"}] },
-    { "season": 1, "episode": 4, "sources": [{"name": "720p", "magnet": "magnet:?xt=urn:btih:cb34a6d876b6f1f438e505ec0e6e1e392b101f64&dn=Riviera.S01E04.HDTV.x264-FGT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"}, {"name": "720p 2", "magnet": "magnet:?xt=urn:btih:6b4dcafa0007abadb4582e7ba61c7885692a6c68&dn=Riviera.S01E04.720p.HDTV.x264-RIV%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"}] },
-    { "season": 1, "episode": 5, "sources": [{"name": "720p", "magnet": "magnet:?xt=urn:btih:fe04374427a5dfe2682dd37c55d5ed5f06df4cd2&dn=Riviera.S01E05.HDTV.x264-FGT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"}, {"name": "720p 2", "magnet": "magnet:?xt=urn:btih:7ec95dc15ad0b4deed23ff8d335a5783043cc644&dn=Riviera.S01E05.720p.HDTV.x264-RIV%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"}] },
-    { "season": 1, "episode": 6, "sources": [{"name": "720p", "magnet": "magnet:?xt=urn:btih:00deb38717cc0feb420b6cdc6b99ec1ab1bbf360&dn=Riviera.S01E06.HDTV.x264-FGT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"}, {"name": "720p 2", "magnet": "magnet:?xt=urn:btih:49d2cd6548239edb63d01116c6e9c55d96496a64&dn=Riviera.S01E06.720p.HDTV.x264-RIV%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"}] },
-    { "season": 1, "episode": 7, "sources": [{"name": "720p", "magnet": "magnet:?xt=urn:btih:75ded1675f7845c6194306810d02efaa249f320a&dn=Riviera.S01E07.HDTV.x264-FGT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"}, {"name": "720p 2", "magnet": "magnet:?xt=urn:btih:ce2a3f3c88c7af16531bb5ca6f8f4327c30dddce&dn=Riviera.S01E07.720p.HDTV.x264-RIV%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"}] },
-    { "season": 1, "episode": 8, "sources": [{"name": "720p", "magnet": "magnet:?xt=urn:btih:5ff0cda609eba99b8cae6a88f0556a506b8949c1&dn=Riviera.S01E08.HDTV.x264-FGT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"}, {"name": "720p 2", "magnet": "magnet:?xt=urn:btih:3b2e151f42dcd22edeefc3f18fc0740d759a9dd9&dn=Riviera.S01E08.720p.HDTV.x264-RIV%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"}] },
-    { "season": 1, "episode": 9, "sources": [{"name": "720p", "magnet": "magnet:?xt=urn:btih:d94c95c7651ccc27487d52e09ba174b240b24981&dn=Riviera.S01E09.HDTV.x264-FGT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"}, {"name": "720p 2", "magnet": "magnet:?xt=urn:btih:050853225260ba2ff74418cca50fa14e5e5f6b20&dn=Riviera.S01E09.720p.HDTV.x264-RIV%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"}] },
-    { "season": 1, "episode": 10, "sources": [{"name": "720p", "magnet": "magnet:?xt=urn:btih:3f03f6005db3cfaa00dd6bf300510253715e40e4&dn=Riviera.S01E10.HDTV.x264-FGT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"}, {"name": "720p 2", "magnet": "magnet:?xt=urn:btih:95f3d6cab376c13f886921fc4470adba63cd2c52&dn=Riviera.S01E10.720p.HDTV.x264-RIV%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710"}] }
+    {
+      "season": 2,
+      "episode": 1,
+      "sources": [
+        {
+          "name": "1080p",
+          "magnet": "magnet:?xt=urn:btih:b75a6be3e1fa4e5918182a6dba522a8162457821&dn=Riviera.S02E01.720p.WEB.H264-iNSiDiOUS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2770&tr=udp%3A%2F%2F9.rarbg.to%3A2730"
+        },
+        {
+          "name": "1080p 2",
+          "magnet": "magnet:?xt=urn:btih:6e592e75e9088995775038dedb6168563bc0b8f9&dn=Riviera.S02E01.1080p.iNTERNAL.WEB.H264-iNSiDiOUS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2940&tr=udp%3A%2F%2F9.rarbg.to%3A2810"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "sources": [
+        {
+          "name": "1080p",
+          "magnet": "magnet:?xt=urn:btih:fe390555b11ead63eaf580359c635d70d028941f&dn=Riviera.S02E02.720p.WEB.H264-iNSiDiOUS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2770&tr=udp%3A%2F%2F9.rarbg.to%3A2910"
+        },
+        {
+          "name": "1080p 2",
+          "magnet": "magnet:?xt=urn:btih:9baa41efbfb5e1fc4dcdfcdf2df33c38179bd1ad&dn=Riviera.S02E02.1080p.iNTERNAL.WEB.H264-iNSiDiOUS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2990&tr=udp%3A%2F%2F9.rarbg.to%3A2740"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "episode": 3,
+      "sources": [
+        {
+          "name": "1080p",
+          "magnet": "magnet:?xt=urn:btih:6b5b43abed9be9afaebc8e596ea863d4a2e2394b&dn=Riviera.S02E03.720p.WEB.H264-iNSiDiOUS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2900&tr=udp%3A%2F%2F9.rarbg.to%3A2890"
+        },
+        {
+          "name": "1080p 2",
+          "magnet": "magnet:?xt=urn:btih:dc9d97c0cce3c138f5702629fba8881f7dddf7da&dn=Riviera.S02E03.1080p.iNTERNAL.WEB.H264-iNSiDiOUS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2740&tr=udp%3A%2F%2F9.rarbg.to%3A2840"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "episode": 4,
+      "sources": [
+        {
+          "name": "1080p",
+          "magnet": "magnet:?xt=urn:btih:43a0e5c7bc3191fdbf0987d696402c5fe6e81a18&dn=Riviera.S02E04.720p.WEB.H264-iNSiDiOUS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2820&tr=udp%3A%2F%2F9.rarbg.to%3A2940"
+        },
+        {
+          "name": "1080p 2",
+          "magnet": "magnet:?xt=urn:btih:91238635bb8b006bc9163db95d1237119decf8f2&dn=Riviera.S02E04.1080p.iNTERNAL.WEB.H264-iNSiDiOUS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2890&tr=udp%3A%2F%2F9.rarbg.to%3A2870"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "episode": 5,
+      "sources": [
+        {
+          "name": "1080p",
+          "magnet": "magnet:?xt=urn:btih:d79558f4ed4a39cf7346fb5c3f6dbd3a9a9806a0&dn=Riviera.S02E05.720p.WEB.H264-iNSiDiOUS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2940&tr=udp%3A%2F%2F9.rarbg.to%3A2730"
+        },
+        {
+          "name": "1080p 2",
+          "magnet": "magnet:?xt=urn:btih:3aaacbee4e77666e6076005e6288bbbfb21d9b63&dn=Riviera.S02E05.1080p.iNTERNAL.WEB.H264-iNSiDiOUS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2990&tr=udp%3A%2F%2F9.rarbg.to%3A2790"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "episode": 6,
+      "sources": [
+        {
+          "name": "1080p",
+          "magnet": "magnet:?xt=urn:btih:7a0b00c5741b068933173cb28c866c524cdbf27e&dn=Riviera.S02E06.720p.WEB.H264-iNSiDiOUS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2720&tr=udp%3A%2F%2F9.rarbg.to%3A2910"
+        },
+        {
+          "name": "1080p 2",
+          "magnet": "magnet:?xt=urn:btih:25785ead1021ff82d880f8dac6bf956f603d157a&dn=Riviera.S02E06.1080p.WEB.H264-iNSiDiOUS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2790&tr=udp%3A%2F%2F9.rarbg.to%3A2970"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "episode": 7,
+      "sources": [
+        {
+          "name": "1080p",
+          "magnet": "magnet:?xt=urn:btih:a7c1daae2c3612ac56f6f1afe3dab50f791f0994&dn=Riviera.S02E07.720p.WEB.H264-iNSiDiOUS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2870&tr=udp%3A%2F%2F9.rarbg.to%3A2840"
+        },
+        {
+          "name": "1080p 2",
+          "magnet": "magnet:?xt=urn:btih:f11de67e55db2406267cbd0e89e7f16590055ed1&dn=Riviera.S02E07.1080p.WEB.H264-iNSiDiOUS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2730&tr=udp%3A%2F%2F9.rarbg.to%3A2980"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "episode": 8,
+      "sources": [
+        {
+          "name": "1080p",
+          "magnet": "magnet:?xt=urn:btih:ebbfe631e0cf476d6cfca7f3bedcbd4f64b7e85a&dn=Riviera.S02E08.720p.WEB.H264-iNSiDiOUS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780&tr=udp%3A%2F%2F9.rarbg.to%3A2940"
+        },
+        {
+          "name": "1080p 2",
+          "magnet": "magnet:?xt=urn:btih:e4da58ee68a9d5480a37256ba6a66e4c43b1ac99&dn=Riviera.S02E08.1080p.WEB.H264-iNSiDiOUS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2830&tr=udp%3A%2F%2F9.rarbg.to%3A2930"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "episode": 9,
+      "sources": [
+        {
+          "name": "1080p",
+          "magnet": "magnet:?xt=urn:btih:b543ef6ebee23f2027699c58c92cf0e6078398a1&dn=Riviera.S02E09.720p.WEB.H264-iNSiDiOUS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2870&tr=udp%3A%2F%2F9.rarbg.to%3A2990"
+        },
+        {
+          "name": "1080p 2",
+          "magnet": "magnet:?xt=urn:btih:f9e2e3f973d66c2bd4ddf4677931867625969a40&dn=Riviera.S02E09.1080p.WEB.H264-iNSiDiOUS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2870&tr=udp%3A%2F%2F9.rarbg.to%3A2780"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "episode": 10,
+      "sources": [
+        {
+          "name": "1080p",
+          "magnet": "magnet:?xt=urn:btih:a05115bab988a1cc0f0d86b896c13aaca2331515&dn=Riviera.S02E10.720p.WEB.H264-iNSiDiOUS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2950&tr=udp%3A%2F%2F9.rarbg.to%3A2830"
+        },
+        {
+          "name": "1080p 2",
+          "magnet": "magnet:?xt=urn:btih:3b3e871d61a40c6cf64049a8dcde18f78f9b15b2&dn=Riviera.S02E10.1080p.WEB.H264-iNSiDiOUS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2880&tr=udp%3A%2F%2F9.rarbg.to%3A2790"
+        }
+      ]
+    }
   ]
 }

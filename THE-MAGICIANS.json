@@ -1,0 +1,20 @@
+{
+  "tmdb_id": 35310,
+  "title": "The Magicians",
+  "episodes": [
+    {
+      "season": 5,
+      "episode": 8,
+      "sources": [
+        {
+          "name": "1080p",
+          "magnet": "magnet:?xt=urn:btih:fc974f50f29ae3ba7f3ed0dc0a9b0b64d4a4faca&dn=The.Magicians.US.S05E08.PROPER.WEBRip.x264-XLF%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2740&tr=udp%3A%2F%2F9.rarbg.to%3A2730"
+        },
+        {
+          "name": "1080p 2",
+          "magnet": "magnet:?xt=urn:btih:c42f406dbc42968f1316b9f97be1155eccdbd7c8&dn=The.Magicians.US.S05E08.PROPER.720p.WEBRip.x264-XLF%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2770&tr=udp%3A%2F%2F9.rarbg.to%3A2760"
+        }
+      ]
+    }
+  ]
+}

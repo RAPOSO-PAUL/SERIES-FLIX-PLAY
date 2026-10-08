@@ -1,0 +1,54 @@
+{
+  "tmdb_id": 62732,
+  "title": "Texas Sob Fogo",
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "sources": [
+        {
+          "name": "720p",
+          "magnet": "magnet:?xt=urn:btih:3C149288FD8C92AF950C1EEAB2BADB04FD221EB2&dn=texas+rising+s01e01+webrip+x264+srs&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+        },
+        {
+          "name": "720p 2",
+          "magnet": "magnet:?xt=urn:btih:2B4D24B069D04591F295740D891CA51A1F582763&dn=texas+rising+s01e01+720p+webrip+x264+srs&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+        }
+      ],
+      "youtube": "lhNMwO8XQUw"
+    },
+    {
+      "season": 1,
+      "episode": 2,
+      "sources": [
+        {
+          "name": "720p",
+          "magnet": "magnet:?xt=urn:btih:86E411E723AFA0022722D0BBE29D2D626DFDEF62&dn=texas+rising+s01e02+webrip+x264+srs&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+        },
+        {
+          "name": "720p 2",
+          "magnet": "magnet:?xt=urn:btih:4D100CD8572F769FB03BBE286AE21E07E621C70F&dn=texas+rising+s01e02+fate+and+fury+720p+hdtv+x264+topkek+ettv&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+        }
+      ]
+    },
+    {
+      "season": 1,
+      "episode": 3,
+      "magnet": "magnet:?xt=urn:btih:99CA4BE46091EBF9FB025ABB956FFE7E91FB1FCC&dn=texas+rising+s01e03+blood+for+blood+web+dl+x264+medo&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce"
+    },
+    {
+      "season": 1,
+      "episode": 4,
+      "sources": [
+        {
+          "name": "720p",
+          "magnet": "magnet:?xt=urn:btih:4F40A1E37E0CC699D3CD7E9AD5821F4CEA203417&dn=texas+rising+s01e04+webrip+x264+srs&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+        },
+        {
+          "name": "720p 2",
+          "magnet": "magnet:?xt=urn:btih:BEEF129B6869401963F52A6380B1730EAA67838D&dn=texas+rising+s01e04+720p+webrip+x264+srs&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+        }
+      ]
+    }
+  ]
+}
