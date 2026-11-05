@@ -1,0 +1,34 @@
+# CONFERE OS ARQUIVOS DAS SERIES A CADA ENVIO (05/11) — o mesmo robo do
+# TeamViannaREPO (copie scripts/validar_json.py para este repositorio,
+# na pasta scripts/). Arquivo de serie quebrado: aviso no TELEGRAM e o X
+# vermelho no GitHub. Segredos opcionais: TELEGRAM_TOKEN e TELEGRAM_CHAT.
+name: Conferir os JSON das séries
+
+on:
+  push:
+    paths:
+      - "**.json"
+      - "scripts/validar_json.py"
+      - ".github/workflows/validar_json.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: validar-json-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  conferir:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Conferir os .json das séries
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT: ${{ secrets.TELEGRAM_CHAT }}
+        run: python scripts/validar_json.py .
